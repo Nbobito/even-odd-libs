@@ -5,7 +5,7 @@
 - `evenorodd.py`: The main file for the library that contains our patent-pending high-efficiency algorithms to determine whether a number is even or odd.
 - `README.md`: You're reading it.
 - `contributors.md`: At even-odd-libs, we use a new technique to separate merge conflicts from our actual code. See the contributing section to see more details.
-- `id_rsa`: Please don't look at this file. One of the members on our team accidentally uploaded one of out ssh private keys. The manager for out github account doesn't know how to use git, and we haven't figured out how to delete it yet.
+- `id_rsa`: Please don't look at this file. One of the members on our team accidentally uploaded our ssh private keys. The manager for out github account doesn't know how to use git, and we haven't figured out how to delete it yet.
 
 ## Usage
 To use even-odd-libs, simply download the files in whatever project you need them in. Then, add the following lines to your code:
