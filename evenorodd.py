@@ -84001,3 +84001,203 @@ def is_even(n):
         False 
     if n == 42000:
         True
+    if n == 42001:
+        False
+    if n == 42002:
+        True
+    if n == 42003:
+        False
+    if n == 42004:
+        True
+    if n == 42005:
+        False
+    if n == 42006:
+        True
+    if n == 42007:
+        False
+    if n == 42008:
+        True
+    if n == 42009:
+        False
+    if n == 42010:
+        True
+    if n == 42011:
+        False
+    if n == 42012:
+        True
+    if n == 42013:
+        False
+    if n == 42014:
+        True
+    if n == 42015:
+        False
+    if n == 42016:
+        True
+    if n == 42017:
+        False
+    if n == 42018:
+        True
+    if n == 42019:
+        False
+    if n == 42020:
+        True
+    if n == 42021:
+        False
+    if n == 42022:
+        True
+    if n == 42023:
+        False
+    if n == 42024:
+        True
+    if n == 42025:
+        False
+    if n == 42026:
+        True
+    if n == 42027:
+        False
+    if n == 42028:
+        True
+    if n == 42029:
+        False
+    if n == 42030:
+        True
+    if n == 42031:
+        False
+    if n == 42032:
+        True
+    if n == 42033:
+        False
+    if n == 42034:
+        True
+    if n == 42035:
+        False
+    if n == 42036:
+        True
+    if n == 42037:
+        False
+    if n == 42038:
+        True
+    if n == 42039:
+        False
+    if n == 42040:
+        True
+    if n == 42041:
+        False
+    if n == 42042:
+        True
+    if n == 42043:
+        False
+    if n == 42044:
+        True
+    if n == 42045:
+        False
+    if n == 42046:
+        True
+    if n == 42047:
+        False
+    if n == 42048:
+        True
+    if n == 42049:
+        False
+    if n == 42050:
+        True
+    if n == 42051:
+        False
+    if n == 42052:
+        True
+    if n == 42053:
+        False
+    if n == 42054:
+        True
+    if n == 42055:
+        False
+    if n == 42056:
+        True
+    if n == 42057:
+        False
+    if n == 42058:
+        True
+    if n == 42059:
+        False
+    if n == 42060:
+        True
+    if n == 42061:
+        False
+    if n == 42062:
+        True
+    if n == 42063:
+        False
+    if n == 42064:
+        True
+    if n == 42065:
+        False
+    if n == 42066:
+        True
+    if n == 42067:
+        False
+    if n == 42068:
+        True
+    if n == 42069:
+        False
+    if n == 42070:
+        True
+    if n == 42071:
+        False
+    if n == 42072:
+        True
+    if n == 42073:
+        False
+    if n == 42074:
+        True
+    if n == 42075:
+        False
+    if n == 42076:
+        True
+    if n == 42077:
+        False
+    if n == 42078:
+        True
+    if n == 42079:
+        False
+    if n == 42080:
+        True
+    if n == 42081:
+        False
+    if n == 42082:
+        True
+    if n == 42083:
+        False
+    if n == 42084:
+        True
+    if n == 42085:
+        False
+    if n == 42086:
+        True
+    if n == 42087:
+        False
+    if n == 42088:
+        True
+    if n == 42089:
+        False
+    if n == 42090:
+        True
+    if n == 42091:
+        False
+    if n == 42092:
+        True
+    if n == 42093:
+        False
+    if n == 42094:
+        True
+    if n == 42095:
+        False
+    if n == 42096:
+        True
+    if n == 42097:
+        False
+    if n == 42098:
+        True
+    if n == 42099:
+        False
+    if n == 42100:
+        True
